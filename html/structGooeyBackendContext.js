@@ -1,0 +1,27 @@
+var structGooeyBackendContext =
+[
+    [ "characters", "structGooeyBackendContext.html#aad47e13028a3a87e4d881d7e64d277b9", null ],
+    [ "child_windows", "structGooeyBackendContext.html#a29d76ac6e8f45137089004e77abe7de7", null ],
+    [ "current_event", "structGooeyBackendContext.html#a76a21c109ff3cda8d04c7a45b536dd2b", null ],
+    [ "cursor", "structGooeyBackendContext.html#aa51f26678cc2d20b6babf90b37ad0c6f", null ],
+    [ "display", "structGooeyBackendContext.html#a64ebd70ecbc32d67b8ded4031cba0a15", null ],
+    [ "font", "structGooeyBackendContext.html#ae11e04fc4c8483059eb0196b8b242e54", null ],
+    [ "font_path", "structGooeyBackendContext.html#a6a4354f0af78f90616b1b1906a76dafd", null ],
+    [ "gc", "structGooeyBackendContext.html#a27ae80b859ad1333d72b7c2d310355f8", null ],
+    [ "inhibit_reset", "structGooeyBackendContext.html#aac9ca04dbebd2cfed732f242b3e072a6", null ],
+    [ "projection", "structGooeyBackendContext.html#a40179db1930430a25d08df469714af77", null ],
+    [ "selected_color", "structGooeyBackendContext.html#ad890be48675d35a27f5f7587eaa3b2a9", null ],
+    [ "shape_program", "structGooeyBackendContext.html#a67ce9eb0babbd1fa9736dc20c488195b", null ],
+    [ "shape_vaos", "structGooeyBackendContext.html#a6198f68fb6ee7ce8a7f5570f115a4105", null ],
+    [ "shape_vbo", "structGooeyBackendContext.html#a4e0ddeb9ffb13d6f10f0d744a79f224c", null ],
+    [ "text_fragment_shader", "structGooeyBackendContext.html#affeaf52316620a80eaad2b86a2c1d1ae", null ],
+    [ "text_programs", "structGooeyBackendContext.html#a178e81ca90a77b726995a971a3f3d04d", null ],
+    [ "text_vaos", "structGooeyBackendContext.html#af3625ff62704742978baee4dfc52945c", null ],
+    [ "text_vbo", "structGooeyBackendContext.html#a5575ea2dfd6047cd7857801e9d2d972a", null ],
+    [ "text_vertex_shader", "structGooeyBackendContext.html#a090839079347a8c37d96982714ecd8d4", null ],
+    [ "user_ptrs", "structGooeyBackendContext.html#afe3753c8f85ffa57c829e9e07d335685", null ],
+    [ "window", "structGooeyBackendContext.html#a3c63abc83f45a7005d9b7184dbf737b5", null ],
+    [ "window", "structGooeyBackendContext.html#a9c9f4ffa530ab20720e3d7e1486fb8bc", null ],
+    [ "window_count", "structGooeyBackendContext.html#ac2b52a7a5a6addf5f177a495331e107a", null ],
+    [ "wm_delete_window", "structGooeyBackendContext.html#a765c27fa0d1302f6c3e7e444b208248b", null ]
+];

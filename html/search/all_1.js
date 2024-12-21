@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['a_0',['a',['../glad_8h.html#ac8729153468b5dcf13f971b21d84d4e5',1,'glad.h']]],
+  ['activatedarktheme_1',['activatedarktheme',['../showcase_8c.html#a9a860a67120c929770b191a2f0cd637f',1,'activateDarkTheme():&#160;showcase.c'],['../main_8c.html#a9a860a67120c929770b191a2f0cd637f',1,'activateDarkTheme():&#160;main.c']]],
+  ['activatelighttheme_2',['activatelighttheme',['../showcase_8c.html#a5a3486629b16db802d74c31268452d5a',1,'activateLightTheme():&#160;showcase.c'],['../main_8c.html#a5a3486629b16db802d74c31268452d5a',1,'activateLightTheme():&#160;main.c']]],
+  ['active_5fbackend_3',['active_backend',['../gooey_8c.html#a25f4df1aab03927fc33995bb8d653e06',1,'active_backend:&#160;gooey.c'],['../gooey_8h.html#a25f4df1aab03927fc33995bb8d653e06',1,'active_backend:&#160;gooey.c'],['../gooey_8c.html#ac8561ba2a9c7224b7c0ca3173c488798',1,'ACTIVE_BACKEND:&#160;gooey.c']]],
+  ['active_5ftheme_4',['active_theme',['../gooey_8c.html#ab2fbd9843a01255ead2b2009a8a4c010',1,'active_theme:&#160;gooey.c'],['../gooey__backend_8h.html#ab2fbd9843a01255ead2b2009a8a4c010',1,'active_theme:&#160;gooey.c']]],
+  ['add_5flog_5fentry_5',['add_log_entry',['../debugger_8c.html#a5d688bcb372e0cc29025ede288b32771',1,'debugger.c']]],
+  ['advance_6',['advance',['../structCharacter.html#ade68e61272c5cfcfd39680928516c4a7',1,'Character']]],
+  ['alpha_7',['alpha',['../glad_8h.html#a090ebe65994a3ee4bb60ae3472abffc5',1,'glad.h']]],
+  ['angle1_8',['angle1',['../structCanvasDrawArcArgs.html#a016ac3a1e4ff34d3d2766d72ec576500',1,'CanvasDrawArcArgs']]],
+  ['angle2_9',['angle2',['../structCanvasDrawArcArgs.html#a1f2c6284e8a42224a7c9c1609b312f36',1,'CanvasDrawArcArgs']]],
+  ['apientry_10',['APIENTRY',['../glad_8h.html#a428a91acf2c2439dc1a257708ee1f805',1,'glad.h']]],
+  ['apientryp_11',['APIENTRYP',['../glad_8h.html#aef0d9e5e275e1b7becf54b6aa9ce3911',1,'glad.h']]],
+  ['args_12',['args',['../structCanvaElement.html#a68ec6695d3f9daa2aa6edb409227a881',1,'CanvaElement']]],
+  ['arrays_13',['arrays',['../glad_8h.html#ab90b6192ffc82d4cdd7c3ca3bfa0754a',1,'glad.h']]],
+  ['attached_5fwindow_14',['attached_window',['../structGooeyEvent.html#a538d7b49f0aeba1e4093c8a2d3d9efcb',1,'GooeyEvent']]],
+  ['attachment_15',['attachment',['../glad_8h.html#ad8f97111cc6514af5f352219d1cceb40',1,'glad.h']]]
+];

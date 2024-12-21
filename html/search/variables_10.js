@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['scroll_5foffset_0',['scroll_offset',['../structGooeyTextbox.html#a9658eece4c2a866e534fc7a99aeb325d',1,'GooeyTextbox']]],
+  ['scrollable_5fcount_1',['scrollable_count',['../structGooeyWindow.html#af3c2f19b61e9cac7e25c99c1aacdff88',1,'GooeyWindow']]],
+  ['scrollables_2',['scrollables',['../structGooeyWindow.html#ad9308cdd5314bed9d8918c72b3228efd',1,'GooeyWindow']]],
+  ['selected_3',['selected',['../structGooeyRadioButton.html#a724ac3c03b883e4066fc8e5c6cd158b4',1,'GooeyRadioButton']]],
+  ['selected_5fcolor_4',['selected_color',['../structGooeyBackendContext.html#ad890be48675d35a27f5f7587eaa3b2a9',1,'GooeyBackendContext']]],
+  ['selected_5findex_5',['selected_index',['../structGooeyDropdown.html#af9ad6b588191b012349a5066f3036da9',1,'GooeyDropdown']]],
+  ['setcontext_6',['SetContext',['../structGooeyBackend.html#aec932d195ecec07738fe4e5aad132a41',1,'GooeyBackend']]],
+  ['setcursor_7',['SetCursor',['../structGooeyBackend.html#a73898cad1f52160405f9b1acfacb450f',1,'GooeyBackend']]],
+  ['setforeground_8',['SetForeground',['../structGooeyBackend.html#a2727a7bd80e882644d062c08f3d8a5fc',1,'GooeyBackend']]],
+  ['shape_5fprogram_9',['shape_program',['../structGooeyBackendContext.html#a67ce9eb0babbd1fa9736dc20c488195b',1,'GooeyBackendContext']]],
+  ['shape_5fvaos_10',['shape_vaos',['../structGooeyBackendContext.html#a6198f68fb6ee7ce8a7f5570f115a4105',1,'GooeyBackendContext']]],
+  ['shape_5fvbo_11',['shape_vbo',['../structGooeyBackendContext.html#a4e0ddeb9ffb13d6f10f0d744a79f224c',1,'GooeyBackendContext']]],
+  ['show_5fhints_12',['show_hints',['../structGooeySlider.html#a4f6742e85a3b0f51a6d1a40d143835a0',1,'GooeySlider']]],
+  ['signal_13',['signal',['../showcase_8c.html#a2500aa5c7b9592818e6c16d61a9a8441',1,'signal:&#160;showcase.c'],['../main_8c.html#a2500aa5c7b9592818e6c16d61a9a8441',1,'signal:&#160;main.c']]],
+  ['slider_5fcount_14',['slider_count',['../structGooeyWindow.html#af38fde6819f1bbc5807c06cf16680673',1,'GooeyWindow']]],
+  ['sliders_15',['sliders',['../structGooeyWindow.html#aab44d8944ff3b00a0b9a80fe9cf8ced3',1,'GooeyWindow']]],
+  ['slots_16',['slots',['../structGooeySignal.html#a6156f8273f8a3124d075003657e86c63',1,'GooeySignal']]],
+  ['spawnwindow_17',['SpawnWindow',['../structGooeyBackend.html#a0c60a6ebb9698384ebf240e5a40cbd0d',1,'GooeyBackend']]],
+  ['state_18',['state',['../structGooeyEvent.html#a3ecd7d10fae5d203887a6834d47629f4',1,'GooeyEvent::state'],['../showcase_8c.html#ab30ba07e2a0bd07a15e45a92c32db9c5',1,'state:&#160;showcase.c'],['../main_8c.html#ab30ba07e2a0bd07a15e45a92c32db9c5',1,'state:&#160;main.c']]],
+  ['success_19',['success',['../structGooeyTheme.html#a559ac22c31aad5c6db3d426dba11fa56',1,'GooeyTheme']]]
+];
